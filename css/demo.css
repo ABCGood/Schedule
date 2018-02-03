@@ -10,9 +10,17 @@ nav{
 }
 
 nav a{
-    line-height: 55px;
+    /*height: 100px;*/
+    /*line-height: 55px;*/
     padding-right:55px;
 }
+
+/*.bottomIcon{*/
+    /*padding-top: 125px*/
+    /*padding-bottom: 100px;*/
+    /*padding-top: 30px*/
+    /*color: #ffff00;*/
+/*}*/
 
 .a{
     font-size: 30px; padding-left: 70px
